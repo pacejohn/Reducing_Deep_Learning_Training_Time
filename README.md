@@ -11,3 +11,30 @@ Server Specs
 | WS       | 1x AMD Ryzen 7 2700X @ 3.70 GHz, 16 cores              |  32 GB | 1x Nvidia Titan RTX |
 
 
+Model Training Times
+
+| Model                              | Machine | Training Time for 1 Epoch (min:sec)          |
+| -----------------------------------|:------------------------------------------------------:| 
+| bert-base-cased                    | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+| roberta-base                       | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+| distilbert-base-uncased            | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+| xlnet-base-cased                   | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+| distilroberta-base                 | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+| bert-base-multilingual-cased       | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+| distilbert-base-multilingual-cased | S1      | |
+|                                    | S2      | |
+|                                    | WS      | |
+
+
