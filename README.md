@@ -11,30 +11,30 @@ Server Specs
 | WS       | 1x AMD Ryzen 7 2700X @ 3.70 GHz, 16 cores              |  32 GB | 1x Nvidia Titan RTX |
 
 
-Model Training Times
+Model Training Times - Times shown for S1 and S2 are the average of 3 training iterations.
 
-| Model                                  | Machine  | Training Time for 1 Epoch (min:sec)           |
-| ---------------------------------------|:--------:|----------------------------------------------:| 
-| **bert-base-cased**                    | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
-| **roberta-base**                       | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
-| **distilbert-base-uncased**            | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
-| **xlnet-base-cased**                   | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
-| **distilroberta-base**                 | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
-| **bert-base-multilingual-cased**       | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
-| **distilbert-base-multilingual-cased** | S1       | |
-|                                        | S2       | |
-|                                        | WS       | |
+| Model                                  | Machine  | Training Time for 1 Epoch (min:sec) |
+| ---------------------------------------|:--------:|------------------------------------:| 
+| **bert-base-cased**                    | S1       | 19:32                               |
+|                                        | S2       | 23:16                               |
+|                                        | WS       | 22:17                               |
+| **roberta-base**                       | S1       | 19:40                               |
+|                                        | S2       | 23:23                               |
+|                                        | WS       | 29:59                               |
+| **distilbert-base-uncased**            | S1       | 10:37                               |
+|                                        | S2       | 12:26                               |
+|                                        | WS       | 15:34                               |
+| **xlnet-base-cased**                   | S1       | 58:17                               |
+|                                        | S2       | 64:57                               |
+|                                        | WS       | 102:25                              |
+| **distilroberta-base**                 | S1       | 11:02                               |
+|                                        | S2       | 12:47                               |
+|                                        | WS       | 15:59                               |
+| **bert-base-multilingual-cased**       | S1       | 20:36                               |
+|                                        | S2       | 23:56                               |
+|                                        | WS       | 24:38                               |
+| **distilbert-base-multilingual-cased** | S1       | 11:46                               |
+|                                        | S2       | 13:08                               |
+|                                        | WS       | 18;49                               |
 
 
