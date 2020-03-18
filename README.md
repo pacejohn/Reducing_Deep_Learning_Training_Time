@@ -11,7 +11,7 @@ Server Specs
 | **WS**       | 1x AMD Ryzen 7 2700X @ 3.70 GHz, 16 cores              |  32 GB | 1x Nvidia Titan RTX |
 
 
-Model Training Times - Times shown for S1 and S2 are the average of 3 training iterations.  Times shown for WS are from [Thilina Rajapakse's Medium article](https://towardsdatascience.com/to-distil-or-not-to-distil-bert-roberta-and-xlnet-c777ad92f8)
+Model Training Times - Times shown for S1 and S2 are the average of 3 training iterations.  Times shown for WS are from [Thilina Rajapakse's Medium article](https://towardsdatascience.com/to-distil-or-not-to-distil-bert-roberta-and-xlnet-c777ad92f8) (https://towardsdatascience.com/to-distil-or-not-to-distil-bert-roberta-and-xlnet-c777ad92f8)
 
 | Model                                  | Machine  | Training Time for 1 Epoch (min:sec) |
 | ---------------------------------------|:--------:|------------------------------------:| 
