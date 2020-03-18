@@ -15,7 +15,7 @@ Model Training Times
 
 | Model                              | Machine  | Training Time for 1 Epoch (min:sec)           |
 | -----------------------------------|:--------:|----------------------------------------------:| 
-| bert-base-cased                    | S1       | |
+| #H1 bert-base-cased                    | S1       | |
 |                                    | S2       | |
 |                                    | WS       | |
 | roberta-base                       | S1       | |
