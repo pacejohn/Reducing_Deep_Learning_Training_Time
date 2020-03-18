@@ -4,5 +4,10 @@ In my blog (xxx), I showed how much deep learning training time could be reduced
 
 Server Specs
 
-S1
-CPU - 
+| Machine  | CPU                                                    | RAM    | GPU                 |
+| ---------|:------------------------------------------------------:| ------:| -------------------:|
+| S1       | 2x Intel(R) Xeon(R) CPU E5-2698 v4 @ 2.20GHz, 20 cores | 512 GB | 8x Nvidia V100 32GB |
+| S2       | 2x Intel(R) Xeon(R) Bronze 3106 CPU @ 1.70GHz, 8 cores |  64 GB | 1x Nvidia V100 16GB |
+| WS       | 1x AMD Ryzen 7 2700X @ 3.70 GHz, 16 cores              |  32 GB | 1x Nvidia Titan RTX |
+
+
